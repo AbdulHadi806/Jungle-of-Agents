@@ -1,0 +1,349 @@
+2025-07-28 13:03:50 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 13:03:50 - root - INFO - Created new storage file: agents_storage.json
+2025-07-28 13:03:50 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 13:03:50 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 13:03:50 - root - INFO - Master agent initialized
+2025-07-28 13:04:20 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 13:04:20 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 13:04:20 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 13:04:20 - root - INFO - Master agent initialized
+2025-07-28 13:04:42 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 13:04:42 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 13:04:42 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 13:04:42 - root - INFO - Master agent initialized
+2025-07-28 13:04:42 - root - INFO - Processing user request: Write a Python function to calculate fibonacci numbers...
+2025-07-28 13:04:42 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:04:42 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:04:42 - root - ERROR - Error analyzing task: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:04:42 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:04:42 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:04:42 - root - ERROR - Error handling request directly: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:04:42 - root - INFO - Processing user request: Explain quantum computing in simple terms...
+2025-07-28 13:04:42 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:04:43 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:04:43 - root - ERROR - Error analyzing task: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:04:43 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:04:43 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:04:43 - root - ERROR - Error handling request directly: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:04:43 - root - INFO - Processing user request: Create a creative story about a robot learning to paint...
+2025-07-28 13:04:43 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:04:43 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:04:43 - root - ERROR - Error analyzing task: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:04:43 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:04:43 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:04:43 - root - ERROR - Error handling request directly: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:04:43 - root - INFO - Processing user request: Help me solve this math problem: What is 15% of 240?...
+2025-07-28 13:04:43 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:04:43 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:04:43 - root - ERROR - Error analyzing task: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:04:43 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:04:43 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:04:43 - root - ERROR - Error handling request directly: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:23 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 13:09:23 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 13:09:23 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 13:09:23 - root - INFO - Master agent initialized
+2025-07-28 13:09:23 - root - INFO - Processing user request: Create a Python function to validate email addresses...
+2025-07-28 13:09:23 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:09:23 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:09:23 - root - ERROR - Error analyzing task: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:23 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:09:23 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:09:23 - root - ERROR - Error handling request directly: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:23 - root - INFO - Processing user request: Write a short story about AI becoming self-aware...
+2025-07-28 13:09:23 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:09:23 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:09:23 - root - ERROR - Error analyzing task: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:23 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:09:23 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:09:23 - root - ERROR - Error handling request directly: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:23 - root - INFO - Processing user request: Solve this equation: 2x + 5 = 17...
+2025-07-28 13:09:23 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:09:23 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:09:23 - root - ERROR - Error analyzing task: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:23 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:09:23 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:09:23 - root - ERROR - Error handling request directly: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:23 - root - INFO - Processing user request: Explain the benefits and drawbacks of renewable energy...
+2025-07-28 13:09:23 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:09:24 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:09:24 - root - ERROR - Error analyzing task: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:24 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:09:24 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:09:24 - root - ERROR - Error handling request directly: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:24 - root - INFO - Processing user request: Write a Python function to calculate the area of a circle...
+2025-07-28 13:09:24 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:09:24 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:09:24 - root - ERROR - Error analyzing task: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:24 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 13:09:24 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 400 Bad Request"
+2025-07-28 13:09:24 - root - ERROR - Error handling request directly: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2025-07-28 13:09:33 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 13:09:33 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 13:09:33 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 13:09:33 - root - INFO - Master agent initialized
+2025-07-28 18:18:55 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 18:18:55 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 18:18:55 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 18:18:55 - root - INFO - Master agent initialized
+2025-07-28 19:22:48 - root - INFO - Processing user request: create an article on todoapp...
+2025-07-28 19:22:48 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:22:50 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:22:50 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:22:50 - root - INFO - Task analysis: {'task_type': 'writing', 'agent_description': 'Content creation agent specializing in article generation and informational writing.', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:22:50 - root - INFO - No agents available for similarity search
+2025-07-28 19:22:50 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:22:58 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:22:58 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:22:58 - root - INFO - Added new agent: ContentArchitectAI
+2025-07-28 19:22:58 - root - INFO - Created new agent: ContentArchitectAI
+2025-07-28 19:22:58 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:23:05 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:23:05 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:25:21 - root - INFO - Processing user request: I want you to create a snake game...
+2025-07-28 19:25:21 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:25:24 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:25:24 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:25:24 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Game development programming assistant (e.g., Python Pygame assistant)', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:25:24 - root - INFO - Searching for agent similar to: Game development programming assistant (e.g., Python Pygame assistant)
+2025-07-28 19:25:24 - root - INFO - No similar agent found (best score: 0.000, threshold: 0.6)
+2025-07-28 19:25:24 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:25:33 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:25:33 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:25:33 - root - INFO - Added new agent: PythonPygameGameDev
+2025-07-28 19:25:33 - root - INFO - Created new agent: PythonPygameGameDev
+2025-07-28 19:25:33 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:26:08 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:26:08 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:37:32 - root - INFO - Processing user request: create a todo app...
+2025-07-28 19:37:32 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:37:34 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:37:34 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:37:34 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Full-stack application development agent capable of designing, coding, and deploying web or mobile applications.', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:37:34 - root - INFO - Searching for agent similar to: Full-stack application development agent capable of designing, coding, and deploying web or mobile applications.
+2025-07-28 19:37:34 - root - INFO - No similar agent found (best score: 0.119, threshold: 0.6)
+2025-07-28 19:37:34 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:37:41 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:37:41 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:37:41 - root - INFO - Added new agent: OmniStackArchitect
+2025-07-28 19:37:41 - root - INFO - Created new agent: OmniStackArchitect
+2025-07-28 19:37:41 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:38:09 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:38:09 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:38:45 - root - INFO - Processing user request: create a python game, a space shooter game...
+2025-07-28 19:38:45 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:38:48 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:38:48 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:38:48 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python game development assistant specializing in arcade-style games', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:38:48 - root - INFO - Searching for agent similar to: Python game development assistant specializing in arcade-style games
+2025-07-28 19:38:48 - root - INFO - No similar agent found (best score: 0.131, threshold: 0.6)
+2025-07-28 19:38:48 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:38:56 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:38:56 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:38:56 - root - INFO - Added new agent: ArcadePyGameMaster
+2025-07-28 19:38:56 - root - INFO - Created new agent: ArcadePyGameMaster
+2025-07-28 19:38:56 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:39:21 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:39:21 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:40:12 - root - INFO - Processing user request: create a arcade game, basically a space marine game...
+2025-07-28 19:40:12 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:40:14 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:40:14 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:40:14 - root - INFO - Task analysis: {'task_type': 'creative', 'agent_description': 'Game Design and Development Agent', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:40:14 - root - INFO - Searching for agent similar to: Game Design and Development Agent
+2025-07-28 19:40:14 - root - INFO - No similar agent found (best score: 0.187, threshold: 0.6)
+2025-07-28 19:40:14 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:40:25 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:40:25 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:40:25 - root - INFO - Added new agent: GameDevArchitect
+2025-07-28 19:40:25 - root - INFO - Created new agent: GameDevArchitect
+2025-07-28 19:40:25 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:40:56 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:40:56 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:41:00 - root - INFO - Processing user request: create a arcade game, basically a space marine game...
+2025-07-28 19:41:00 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:41:04 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:41:04 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:41:04 - root - INFO - Task analysis: {'task_type': 'creative', 'agent_description': 'Game development assistant specializing in arcade game design, mechanics, and conceptualization.', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:41:04 - root - INFO - Searching for agent similar to: Game development assistant specializing in arcade game design, mechanics, and conceptualization.
+2025-07-28 19:41:04 - root - INFO - No similar agent found (best score: 0.187, threshold: 0.6)
+2025-07-28 19:41:04 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:41:13 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:41:13 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:41:13 - root - INFO - Added new agent: ArcadeGameArchitect
+2025-07-28 19:41:13 - root - INFO - Created new agent: ArcadeGameArchitect
+2025-07-28 19:41:13 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:43:13 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 19:43:13 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 19:43:13 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 19:43:13 - root - INFO - Master agent initialized
+2025-07-28 19:43:36 - root - INFO - Processing user request: Create a python snake game...
+2025-07-28 19:43:36 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:43:38 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:43:38 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:43:38 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python game development assistant with expertise in libraries like Pygame or Tkinter for creating interactive applications.', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:43:38 - root - INFO - Searching for agent similar to: Python game development assistant with expertise in libraries like Pygame or Tkinter for creating interactive applications.
+2025-07-28 19:43:38 - root - INFO - No similar agent found (best score: 0.200, threshold: 0.6)
+2025-07-28 19:43:38 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:43:44 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:43:44 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:43:44 - root - INFO - Added new agent: PythonGameDevMaster
+2025-07-28 19:43:44 - root - INFO - Created new agent: PythonGameDevMaster
+2025-07-28 19:43:44 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:44:09 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:44:09 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:44:25 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 19:44:25 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 19:44:25 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 19:44:26 - root - INFO - Master agent initialized
+2025-07-28 19:44:28 - root - INFO - Processing user request: create a arcade game, basically a space marine game...
+2025-07-28 19:44:28 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:44:31 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:44:31 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:44:31 - root - INFO - Task analysis: {'task_type': 'game development', 'agent_description': 'Game Design and Development Assistant', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:44:31 - root - INFO - Searching for agent similar to: Game Design and Development Assistant
+2025-07-28 19:44:31 - root - INFO - No similar agent found (best score: 0.190, threshold: 0.6)
+2025-07-28 19:44:31 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:45:15 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 19:45:15 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 19:45:15 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 19:45:16 - root - INFO - Master agent initialized
+2025-07-28 19:45:20 - root - INFO - Processing user request: Create a python snake game...
+2025-07-28 19:45:20 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:45:23 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:45:23 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:45:23 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python programming assistant specialized in game development', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:45:23 - root - INFO - Searching for agent similar to: Python programming assistant specialized in game development
+2025-07-28 19:45:23 - root - ERROR - Error processing request: 'str' object has no attribute 'get'
+2025-07-28 19:45:47 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 19:45:47 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 19:45:47 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 19:45:48 - root - INFO - Master agent initialized
+2025-07-28 19:45:52 - root - INFO - Processing user request: create a python game, a space shooter game...
+2025-07-28 19:45:52 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:45:54 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:45:54 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:45:54 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python game development assistant', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:45:54 - root - INFO - Searching for agent similar to: Python game development assistant
+2025-07-28 19:45:54 - root - ERROR - Error processing request: 'dict' object has no attribute 'description'
+2025-07-28 19:46:53 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 19:46:53 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 19:46:53 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 19:46:54 - root - INFO - Master agent initialized
+2025-07-28 19:46:57 - root - INFO - Processing user request: Create a python snake game...
+2025-07-28 19:46:57 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:46:59 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:46:59 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:46:59 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python game development assistant', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:46:59 - root - INFO - Searching for agent similar to: Python game development assistant
+2025-07-28 19:46:59 - root - ERROR - Error processing request: 'str' object has no attribute 'get'
+2025-07-28 19:48:07 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 19:48:07 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 19:48:07 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 19:48:07 - root - INFO - Master agent initialized
+2025-07-28 19:48:11 - root - INFO - Processing user request: create a python game, a space shooter game...
+2025-07-28 19:48:11 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 19:48:13 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 19:48:13 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 19:48:13 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python game development assistant with expertise in Pygame or similar libraries.', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 19:48:13 - root - INFO - Searching for agent similar to: Python game development assistant with expertise in Pygame or similar libraries.
+2025-07-28 19:48:13 - root - INFO - No similar agent found (best score: 0.213, threshold: 0.6)
+2025-07-28 19:48:13 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:06:40 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 20:06:40 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 20:06:40 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 20:06:41 - root - INFO - Master agent initialized
+2025-07-28 20:06:47 - root - INFO - Processing user request: Create a python snake game...
+2025-07-28 20:06:47 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:06:49 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:06:49 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:06:49 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python game development assistant', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 20:06:49 - root - INFO - Searching for agent similar to: Python game development assistant
+2025-07-28 20:06:49 - root - INFO - No similar agent found (best score: 0.200, threshold: 0.6)
+2025-07-28 20:06:49 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:07:02 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:07:02 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:07:02 - root - INFO - Added new agent: PyGameArchitect
+2025-07-28 20:07:02 - root - INFO - Created new agent: PyGameArchitect
+2025-07-28 20:07:02 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:07:26 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:07:26 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:08:19 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 20:08:19 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 20:08:19 - root - INFO - Similarity search initialized with threshold: 0.6
+2025-07-28 20:08:20 - root - INFO - Master agent initialized
+2025-07-28 20:08:25 - root - INFO - Processing user request: create a python game, a space shooter game...
+2025-07-28 20:08:25 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:08:27 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:08:27 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:08:27 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python game development assistant', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 20:08:27 - root - INFO - Searching for agent similar to: Python game development assistant
+2025-07-28 20:08:27 - root - INFO - No similar agent found (best score: 0.158, threshold: 0.6)
+2025-07-28 20:08:27 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:08:34 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:08:34 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:08:34 - root - INFO - Updated existing agent: PyGameArchitect
+2025-07-28 20:08:34 - root - INFO - Created new agent: PyGameArchitect
+2025-07-28 20:08:34 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:08:58 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:08:58 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:10:38 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 20:10:38 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 20:10:38 - root - INFO - Similarity search initialized with threshold: 0.09
+2025-07-28 20:10:39 - root - INFO - Master agent initialized
+2025-07-28 20:10:42 - root - INFO - Processing user request: Create a python snake game...
+2025-07-28 20:10:42 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:10:45 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:10:45 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:10:45 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python game development assistant with expertise in Pygame or similar libraries.', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 20:10:45 - root - INFO - Searching for agent similar to: Python game development assistant with expertise in Pygame or similar libraries.
+2025-07-28 20:10:45 - root - INFO - Found similar agent: PyGameArchitect (score: 0.214)
+2025-07-28 20:10:45 - root - INFO - Using existing agent: PyGameArchitect
+2025-07-28 20:10:45 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:11:07 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 20:11:07 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 20:11:07 - root - INFO - Similarity search initialized with threshold: 0.09
+2025-07-28 20:11:08 - root - INFO - Master agent initialized
+2025-07-28 20:11:12 - root - INFO - Processing user request: create a python game...
+2025-07-28 20:11:12 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:11:14 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:11:14 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:11:14 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python game development assistant', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 20:11:14 - root - INFO - No agents available for similarity search
+2025-07-28 20:11:14 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:11:24 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:11:24 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:11:24 - root - INFO - Added new agent: PyGameDevExpert
+2025-07-28 20:11:24 - root - INFO - Created new agent: PyGameDevExpert
+2025-07-28 20:11:24 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:11:37 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:11:37 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:37:15 - root - INFO - Processing user request: create a python game a star fighter game...
+2025-07-28 20:37:15 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:37:17 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:37:17 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:37:17 - root - INFO - Task analysis: {'task_type': 'coding', 'agent_description': 'Python game development assistant', 'complexity': 'complex', 'requires_delegation': True}
+2025-07-28 20:37:17 - root - INFO - Searching for agent similar to: Python game development assistant
+2025-07-28 20:37:17 - root - INFO - Found similar agent: PyGameDevExpert (score: 0.140)
+2025-07-28 20:37:17 - root - INFO - Using existing agent: PyGameDevExpert
+2025-07-28 20:37:17 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:37:49 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-07-28 20:37:49 - google_genai.models - INFO - AFC remote call 1 is done.
+2025-07-28 20:42:48 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 20:42:48 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 20:42:48 - root - INFO - Similarity search initialized with threshold: 0.09
+2025-07-28 20:42:49 - root - INFO - Master agent initialized
+2025-07-28 20:42:55 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 20:42:55 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 20:42:55 - root - INFO - Similarity search initialized with threshold: 0.09
+2025-07-28 20:42:56 - root - INFO - Master agent initialized
+2025-07-28 20:44:28 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 20:44:28 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 20:44:28 - root - INFO - Similarity search initialized with threshold: 0.09
+2025-07-28 20:44:29 - root - INFO - Master agent initialized
+2025-07-28 20:44:45 - root - INFO - Processing user request: cls...
+2025-07-28 20:44:45 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-07-28 20:51:26 - root - INFO - Initialized agent: MasterAgent
+2025-07-28 20:51:26 - root - INFO - Agent storage initialized with file: agents_storage.json
+2025-07-28 20:51:26 - root - INFO - Similarity search initialized with threshold: 0.09
+2025-07-28 20:51:27 - root - INFO - Master agent initialized
